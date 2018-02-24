@@ -1,0 +1,10 @@
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\SoftwareHW4\SoftwareHW4\bin\Debug\SoftwareHW4.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\SoftwareHW4\SoftwareHW4\bin\Debug\SoftwareHW4.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\SoftwareHW4\SoftwareHW4\bin\Debug\SoftwareHW4.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\SoftwareHW4\SoftwareHW4\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\SoftwareHW4\SoftwareHW4\obj\Debug\SoftwareHW4.ServerForm.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\SoftwareHW4\SoftwareHW4\obj\Debug\SoftwareHW4.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\SoftwareHW4\SoftwareHW4\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\SoftwareHW4\SoftwareHW4\obj\Debug\SoftwareHW4.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\SoftwareHW4\SoftwareHW4\obj\Debug\SoftwareHW4.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\SoftwareHW4\SoftwareHW4\bin\Debug\Packet_Delivery.dll
